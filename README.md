@@ -19,6 +19,7 @@ curl https://storage.googleapis.com/ncci-releases/get.sh | bash
 Homebrew (latest stable version)
 
 ```bash
+brew trust bigbinary/tap
 brew install bigbinary/tap/ncci
 ```
 
